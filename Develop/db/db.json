@@ -1,24 +1,21 @@
 [
     {
-        "title":"Test Title",
+        "title":"Finish homework that's due today",
         "text":"Test text"
     },
     {
-        "title":"Test Title",
+        "title":"Finish watching leacture videos",
         "text":"Test text"
     },
     {
-        "title":"Test Title",
+        "title":"Grocery shopping",
         "text":"Test text"
     },
     {
-        "title":"Test Title",
-        "text":"Test text"
-    },
-    {
-        "title":"you can do it ",
+        "title":"Check email",
         "text":"Test text"
     }
+    
 
 
 
