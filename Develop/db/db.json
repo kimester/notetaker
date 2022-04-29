@@ -1,27 +1,17 @@
 [
     {
-        "title":"Finish homework that's due today",
-        "text":"Test text"
+        "title": "Take the trash out ",
+        "text": "ester",
+        "id": "e25e8eb3-ad93-45ab-86ab-a494ac67c45f"
     },
     {
-        "title":"Finish watching leacture videos",
-        "text":"Test text"
+        "title": "homework due today",
+        "text": "dfdf",
+        "id": "69437f29-8e14-4102-bf4a-17f96d20e944"
     },
     {
-        "title":"Grocery shopping",
-        "text":"Test text"
-    },
-    {
-        "title":"Check email",
-        "text":"Test text"
+        "title": "next homework due monday",
+        "text": "edf",
+        "id": "05b4a451-374d-4254-9503-71e854a6a23c"
     }
-    
-
-
-
-
-
-
-
-
 ]
